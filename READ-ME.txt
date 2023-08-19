@@ -1,11 +1,11 @@
   =>  Template Name    : AbleAutos
 
-  =>  Template Link    : https://htmlcodex.com/car-repair-html-template
+  =>  Template Link    : https://github.com/covenantcodescar-repair-html-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://github.com/covenantcodeslicense (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : covenantcodes
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://github.com/covenantcodes
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About covenantcodes : covenantcodes is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://github.com/covenantcodesabout-us )
